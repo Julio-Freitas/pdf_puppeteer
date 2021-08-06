@@ -1,0 +1,17 @@
+*{
+  background-color: aquamarine;
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  margin: 20px 0;
+  padding: 0 10px;
+}
+
+div > p {
+  font-size: 30px;
+  font-weight: bold;
+}
